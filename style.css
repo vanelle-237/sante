@@ -1,4 +1,5 @@
 
+
 /* ulrich */
 * {
     margin: 0;
@@ -85,7 +86,7 @@ nav ul li a:hover::after {
         width: 100%;
     }
 }
-<<<<<<< HEAD
+
 
 /*patricia*/
 .contact-container {
@@ -124,7 +125,29 @@ nav ul li a:hover::after {
 
 .contact-list a:hover {
   color: #a58aff;
-=======
+}
+#competence {
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+#competences h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+#competences ul{
+    list-style-type: none;
+    padding: 0;
+
+}
+#competences li {
+    margin: 8px 0;
+    font-size: 18px;
+    border-bottom: 1px solid #444;
+    padding-bottom: 5px;
+}    
   
 
 footer {
@@ -162,5 +185,4 @@ footer {
 
 .footer-links li a:hover {
   color: #00bcd4;
->>>>>>> c0a16a448f20251fba548f9dcc7879b6a54d3a29
 }
